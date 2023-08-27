@@ -1,4 +1,4 @@
-<h1 align="center">¡Hi! I'm Rodrigo Parra <br> <img aling="center" width="100" height="100" src="https://github.com/Rodrigoparra1/Rodrigoparra1/blob/73bb0f079a90e85ad945dc3995e43f13d07e8610/4foo.gif"/> </h1>
+<h1 align="center">¡Hi! I'm Rodrigo Parra <a> <br> <img aling="center" width="100" height="100" src="https://github.com/Rodrigoparra1/Rodrigoparra1/blob/73bb0f079a90e85ad945dc3995e43f13d07e8610/4foo.gif"/> </h1>
 
 <h3 align="center">Software development and management engineer.👨‍💻</h3>
 <p><li>You can find school and personal projects.📝</p>
